@@ -1,6 +1,7 @@
-*.class
+/nb-configuration.xml
+/target
 
-# Package Files #
-*.jar
-*.war
-*.ear
+/ui-templates-core/catalog.xml
+/ui-templates-core/faces-config.NavData
+/ui-templates-core/nb-configuration.xml
+/ui-templates-core/target
